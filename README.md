@@ -7,6 +7,8 @@ Historical documents (in Chinese) about the GPCR(the Proletarian Culture Revolut
 **Github仓库内只存放文本文件（如.TXT，.MD），其他文件（.PDF，.PNG，.JPG，.DOCX）存放地址：**
 https://mega.nz/folder/RKoWRZbR#9MiDE0QddknzeQ1ORjMj_A
 
+**最新整理进展见issue，我会在那里更新整理进度。**
+
 ### 在GitHub上怎样修改别人的库？（Git命令行方式）
 
 1.Fork（右上角）
