@@ -1,7 +1,4 @@
-# 文革历史资料
-无产阶级文化大革命时期的一些历史资料。  
-Historical documents (in Chinese) about the GPCR(the Proletarian Culture Revolution).
-
+# 资料
 仓库内文件来自：https://github.com/ProletRevDicta/Prolet
 
 **Github仓库内只存放文本文件（如.TXT，.MD），其他文件（.PDF，.PNG，.JPG，.DOCX）存放地址：**
